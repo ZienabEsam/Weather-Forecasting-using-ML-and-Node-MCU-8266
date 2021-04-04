@@ -6,4 +6,5 @@ https://enjoyengineerings.blogspot.com/2021/04/weather-prediction-using-machin.h
 notes:
 the GUI built in the ensemble code used images format ppm
 you have to prepare your dataset before you start in form of CSV "comma separated value", where it's easier to manipulate
-atthe end of some used algorithms you will find code lines to convert the prediction results again into a CSV file
+
+at the end of some used algorithms you will find code lines to convert the prediction results again into a CSV file
